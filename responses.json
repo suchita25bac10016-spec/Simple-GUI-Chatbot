@@ -1,0 +1,25 @@
+{
+  "hello": "Hello! How can I help you today?",
+  "hi": "Hello! How can I help you today?",
+  "hey": "Hello! How can I help you today?",
+
+  "what is your name": "I am a Simple Chatbot 🤖",
+  "who are you": "I am a Simple Chatbot 🤖",
+  "your name": "I am a Simple Chatbot 🤖",
+
+  "how are you": "I’m doing great, thanks for asking! How about you?",
+  "how is it going": "I’m doing great, thanks for asking! How about you?",
+
+  "what is the time": "I don’t have a watch ⏰, but you can check your system clock!",
+  "tell me the time": "I don’t have a watch ⏰, but you can check your system clock!",
+
+  "what is the weather": "I can’t check live weather yet 🌦️, but I can guess it’s nice outside!",
+  "tell me the weather": "I can’t check live weather yet 🌦️, but I can guess it’s nice outside!",
+
+  "tell me a joke": "Why don’t skeletons fight each other? Because they don’t have the guts! 😂",
+  "joke": "Why don’t skeletons fight each other? Because they don’t have the guts! 😂",
+
+  "bye": "Goodbye! Have a great day 😊",
+  "goodbye": "Goodbye! Have a great day 😊",
+  "see you": "Goodbye! Have a great day 😊"
+}
